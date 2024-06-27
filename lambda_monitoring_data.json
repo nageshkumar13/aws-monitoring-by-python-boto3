@@ -1,0 +1,42 @@
+[
+    {
+        "FunctionName": "prod-otp-login-processor",
+        "Runtime": "python3.9",
+        "Handler": "app.lambda_handler",
+        "CodeSize": 25479649,
+        "Description": "Function to process otp login/verify",
+        "MemorySize": 128
+    },
+    {
+        "FunctionName": "prod-scheduled-daily-dose-processor",
+        "Runtime": "python3.9",
+        "Handler": "app.lambda_handler",
+        "CodeSize": 3256,
+        "Description": "Scheduled lambda func to update daily windows",
+        "MemorySize": 384
+    },
+    {
+        "FunctionName": "prod-course-reg-processor",
+        "Runtime": "python3.9",
+        "Handler": "app.lambda_handler",
+        "CodeSize": 27371599,
+        "Description": "Lambda function to process course-registration apis",
+        "MemorySize": 384
+    },
+    {
+        "FunctionName": "prod-otp-authorizer-processor",
+        "Runtime": "python3.9",
+        "Handler": "app.authorize_handler",
+        "CodeSize": 3110,
+        "Description": "Function to process otp authorization",
+        "MemorySize": 128
+    },
+    {
+        "FunctionName": "prod-daily-dose-processor",
+        "Runtime": "python3.9",
+        "Handler": "app.lambda_handler",
+        "CodeSize": 25483098,
+        "Description": "Lambda function to process daily-does apis",
+        "MemorySize": 384
+    }
+]

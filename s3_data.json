@@ -1,0 +1,66 @@
+[
+    {
+        "Name": "cdk-hnb659fds-assets-512283063843-us-east-1",
+        "CreationDate": "2023-04-24 04:01:08.000"
+    },
+    {
+        "Name": "dest-product-manual-data",
+        "CreationDate": "2022-06-16 03:35:25.000"
+    },
+    {
+        "Name": "doubledigit-aritifactory-dev-us-east-1",
+        "CreationDate": "2020-02-06 16:21:33.000"
+    },
+    {
+        "Name": "doubledigit-datalake-dev-us-east-1",
+        "CreationDate": "2020-02-06 16:21:33.000"
+    },
+    {
+        "Name": "doubledigit-solutions.com",
+        "CreationDate": "2022-02-01 08:41:46.000"
+    },
+    {
+        "Name": "doubledigit-tfstate-dev-us-east-1",
+        "CreationDate": "2020-02-06 16:21:33.000"
+    },
+    {
+        "Name": "elasticbeanstalk-us-east-1-512283063843",
+        "CreationDate": "2019-08-30 15:09:00.000"
+    },
+    {
+        "Name": "partners-consolidated-data",
+        "CreationDate": "2021-01-31 15:27:31.000"
+    },
+    {
+        "Name": "prod-artifactory-512283063843-ap-south-1",
+        "CreationDate": "2024-02-17 16:55:35.000"
+    },
+    {
+        "Name": "prod-course-reg-data-512283063843-ap-south-1",
+        "CreationDate": "2024-05-31 17:48:21.000"
+    },
+    {
+        "Name": "prod-daily-dose-data-512283063843-ap-south-1",
+        "CreationDate": "2024-02-19 16:46:26.000"
+    },
+    {
+        "Name": "prod-tfstate-512283063843-ap-south-1",
+        "CreationDate": "2024-02-17 07:22:22.000"
+    },
+    {
+        "Name": "prod-tfstate-replication-512283063843-ap-south-1",
+        "CreationDate": "2024-02-17 16:55:36.000"
+    },
+    {
+        "Name": "s3-dynamodb-dev",
+        "CreationDate": "2023-04-24 07:02:08.000"
+    },
+    {
+        "Name": "vivek-k-mishra.in",
+        "CreationDate": "2021-03-16 12:06:05.000"
+    },
+    {
+        "Name": "www.vivek-k-mishra.in",
+        "CreationDate": "2021-03-16 12:08:40.000"
+    }
+]

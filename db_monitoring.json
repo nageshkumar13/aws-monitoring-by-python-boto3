@@ -1,0 +1,32 @@
+[
+    {
+        "dB_Name": "prod-course-reg-otp-login-table",
+        "created_time": "2024-06-02 22:42:36.511",
+        "Status": "ACTIVE"
+    },
+    {
+        "dB_Name": "prod-course-reg-table",
+        "created_time": "2024-06-02 22:42:36.509",
+        "Status": "ACTIVE"
+    },
+    {
+        "dB_Name": "prod-daily-dose-table",
+        "created_time": "2024-04-01 00:14:08.141",
+        "Status": "ACTIVE"
+    },
+    {
+        "dB_Name": "prod-dd-user-details-table",
+        "created_time": "2024-04-01 00:14:08.151",
+        "Status": "ACTIVE"
+    },
+    {
+        "dB_Name": "prod-otp-login-table",
+        "created_time": "2024-04-01 00:14:08.149",
+        "Status": "ACTIVE"
+    },
+    {
+        "dB_Name": "prod-tfstate-lock-db-ap-south-1",
+        "created_time": "2024-02-17 12:52:21.328",
+        "Status": "ACTIVE"
+    }
+]

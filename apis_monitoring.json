@@ -1,0 +1,20 @@
+[
+    {
+        "ID": "p1eqx2ouy1",
+        "Api_Name": "prod-course-reg-api",
+        "description": "REST API for course registration page!",
+        "Created_date_time": "2024-06-02 22:42:37.000",
+        "endpointConfiguration": [
+            "REGIONAL"
+        ]
+    },
+    {
+        "ID": "ubq40r0wk5",
+        "Api_Name": "prod-daily-dose-api",
+        "description": "REST API to daily dose app!",
+        "Created_date_time": "2024-02-18 08:59:33.000",
+        "endpointConfiguration": [
+            "REGIONAL"
+        ]
+    }
+]
